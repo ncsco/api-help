@@ -1,4 +1,4 @@
 api-issue
 =========
 
-Issue Tracker for NCSCO API
+This is the public issue tracker for the NCSCO API
